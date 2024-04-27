@@ -56,14 +56,18 @@ footer {
 
 .button:hover {
     background-color: #0056b3;
-
+}
+    Country {
+    padding: 5px;
+    border: 1px solid #ccc;
+    
+}
     img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     height: 100px;
   }
-}
 /*Estilos de hipervinculos */
   a {
     color: rgb(4, 4, 90);
