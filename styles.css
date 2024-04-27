@@ -134,3 +134,16 @@ footer {
     font-size: 0.9em;
     line-height: 1.6;
   }
+ .video-container {
+    display: flex; /* Enable flexbox layout */
+    flex-wrap: wrap; /* Allow wrapping to multiple rows */
+    justify-content: space-around; /* Distribute videos evenly */
+  }
+  
+  .iframe {
+    width: 700px; /* Adjust width as needed */
+    height: 400px; /* Adjust height as needed */
+    margin: 10px; /* Add spacing between videos */
+  }
+
+
